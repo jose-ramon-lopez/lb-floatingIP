@@ -97,7 +97,7 @@ Si quiero guardar los cambios
 <pre>
 net.ipv4.conf.all.rp_filter=2
 net.ipv4.conf.eth0.rp_filter=2
-<pre>
+</pre>
 
 aplico los cambios
 <pre>
